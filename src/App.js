@@ -2,7 +2,6 @@ import './App.css';
 import { FlutterWaveButton, closePaymentModal } from 'flutterwave-react-v3';
 
 function App() {
-  console.log(process.env.REACT_APP_PUBLIC_KEY)
   const email = "ademilua.oluseun@gmail.com"
   const phone_number = "08139904849"
   const name = "Ademilua Oluseun"
